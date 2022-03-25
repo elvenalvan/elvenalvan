@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elvenalvan
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C
 - 💞️ I'm looking to develop new skills which can help me in my work
 - 📫 How to reach me alvanelven@gmail.com
 
